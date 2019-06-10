@@ -1,8 +1,8 @@
-# demo
+# 仿锤子Demo
 
 > 
 
-## Build Setup
+## 
 
 ``` bash
 # install dependencies
